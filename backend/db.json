@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Sylvanas Windrunner"
+    },
+    {
+      "id": "10",
+      "name": "Bla"
+    },
+    {
+      "id": "23456",
+      "name": "Ethan Raines"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Loic"
+    },
+    {
+      "id": 2,
+      "username": "FX"
+    }
+  ]
+}
